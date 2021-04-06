@@ -1,0 +1,27 @@
+body{
+  background-image: url(2850815.jpg);
+  background-size: 100%;
+}
+
+#tablo {
+    display: none;
+    flex-flow: row wrap;
+    align-items: stretch;
+    justify-content: space-around;
+ }
+#day1, #day2, #day3, #day4 {
+	font-size:1.8em;
+	color:#e8ffe8;
+	text-shadow: 0 0 5px #070707;
+ }
+#demo7, #demo6, #demo10, #demo8, #demo14, #demo12, #demo18, #demo16 {
+    font-size:.8em;
+	color:#FF66FF;
+ }
+#demo5, #demo11, #demo15, #demo19 {
+    font-size:1.3em;
+	color:#0768f0;
+ }
+#demo4, #demo9, #demo13, #demo17 {
+    font-size:1.3em;
+	color:#ff00bb;
